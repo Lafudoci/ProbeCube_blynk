@@ -1,7 +1,7 @@
 {
-    "name": "blynk",
+    "name": "ProbeCube_blynk",
     "version": "0.3.3",
-    "author": "Volodymyr Shymanskyy <vshymanskyi@gmail.com>",
+    "author": "Lafudoci",
     "license": "MIT",
     "description": "Build a smartphone app for your Particle project in minutes. http://blynk.cc"
 }
